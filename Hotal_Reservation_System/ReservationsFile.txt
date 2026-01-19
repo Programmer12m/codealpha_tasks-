@@ -1,0 +1,9 @@
+2026-01-18T21:21:05.393687800  a Had Made a reservation  of Room Type:s
+2026-01-18T21:21:05.393687800  py Had Made a reservation  of Room Type:d
+2026-01-18T21:31:05.487959100  c Had Made a reservation  of Room Type:d
+2026-01-18T21:38:23.295660600  java Had Made a reservation  of Room Type:p
+2026-01-18T21:44:26.391900100  py Had Made a reservation  of Room Type:p
+2026-01-18T21:44:26.391900100  c Had Made a reservation  of Room Type:c
+2026-01-18T21:48:21.057679200 | Email: ppp | Name: p | Room Type: standard
+2026-01-18T21:48:44.179566900 | Email: aa | Name: a | Room Type: a
+2026-01-18T21:48:52.354115700 | Email: cc | Name: cc | Room Type: cc
